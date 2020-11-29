@@ -52,7 +52,7 @@ module.exports = {
     bundle: 'bundle.js',
   },
   service3: {
-    api: '/948783956',
+    api: '/874594047',
     url: 'http://3.101.37.211:3002',
     bundle: 'bundle.js',
   },
